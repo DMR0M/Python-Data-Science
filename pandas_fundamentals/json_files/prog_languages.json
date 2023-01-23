@@ -1,0 +1,47 @@
+[
+    {
+        "Programming Language": "Java",
+        "Year Created": 1995,
+        "Statically Typed": true
+    },
+    {
+        "Programming Language": "Python",
+        "Year Created": 2008,
+        "Statically Typed": false
+    },
+    {
+        "Programming Language": "Ruby",
+        "Year Created": 1995,
+        "Statically Typed": false
+    },
+    {
+        "Programming Language": "C++",
+        "Year Created": 1986,
+        "Statically Typed": true
+    },
+    {
+        "Programming Language": "C#",
+        "Year Created": 2000,
+        "Statically Typed": true
+    },
+    {
+        "Programming Language": "C",
+        "Year Created": 1972,
+        "Statically Typed": true
+    },
+    {
+        "Programming Language": "Rust",
+        "Year Created": 2008,
+        "Statically Typed": true
+    },
+    {
+        "Programming Language": "Javascript",
+        "Year Created": 1995,
+        "Statically Typed": false
+    },
+    {
+        "Programming Language": "Go",
+        "Year Created": 2012,
+        "Statically Typed": true
+    }
+]
